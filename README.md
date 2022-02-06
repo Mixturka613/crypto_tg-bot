@@ -1,4 +1,4 @@
-##Cryptocurrency Telegram Bot
+## Cryptocurrency Telegram Bot
 
 >The bot uses only one guzzle library to send requests. Everything else is implemented by hand and php. Basically I use Webhooks.
 
