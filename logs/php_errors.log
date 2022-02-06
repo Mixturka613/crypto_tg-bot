@@ -1,0 +1,8 @@
+[06-Feb-2022 20:39:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "Handler" not found in /home/c/ch77776/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/c/ch77776/public_html/index.php on line 18
+[06-Feb-2022 20:39:16 Europe/Moscow] PHP Fatal error:  Uncaught Error: Class "Handler" not found in /home/c/ch77776/public_html/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/c/ch77776/public_html/index.php on line 18

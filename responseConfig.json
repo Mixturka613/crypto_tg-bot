@@ -1,0 +1,54 @@
+{
+    "command": {
+
+        "/start": {
+            "text": "📺\tMenu \n Сhoose a cryptocurrency, the price you want to know",
+            "buttons": [
+                {
+                    "preview": "TON",
+                    "identyfi": "the-open-network"
+                },
+                {
+                    "preview": "Ethereum",
+                    "identyfi": "ethereum"
+                },
+                {
+                    "preview": "BTC",
+                    "identyfi": "bitcoin"
+                },
+                {
+                    "preview": "Dogecoin",
+                    "identyfi": "dogecoin"
+                },
+                {
+                    "preview": "Cosmos",
+                    "identyfi": "cosmos"
+                },
+                {
+                	"preview": "USD Coin",
+                	"identyfi": "usd-coin"
+                }
+            ]
+        },
+
+        "/getprice": {
+
+        }
+
+    },
+
+    "tockenInterface": {
+        "buttons": [
+            {
+                "identyfi": "comeback",
+                "preview": "🔚 Go Menu"
+            },
+            {
+            	"identyfi": "update",
+            	"preview": "🔄 Update"
+            }
+        ]
+    }
+
+}
+
