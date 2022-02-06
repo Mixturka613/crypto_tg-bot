@@ -2,7 +2,7 @@
 
 >The bot uses only one guzzle library to send requests. Everything else is implemented by hand and php. Basically I use Webhooks.
 
-<tr>
+<tr display="flex">
   <td><img src="img/img1.jpg" width="100px" height="250px" ></td>
   <td><img src="img/img2.jpg" width="100px" height="250px" ></td>
 <tr>
