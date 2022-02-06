@@ -1,5 +1,0 @@
-stdClass Object
-(
-    [preview] => Ethereum
-    [identyfi] => ethereum
-)

@@ -12,7 +12,7 @@ $arr = json_decode($data, true);
 // file_put_contents("logs/data.txt", print_r( $arr , true ) . "\n" , FILE_APPEND);
 
 // set tocken
-$tocken = "5057060950:AAH2pXYCbI5Hij8EftjE8CX8H3RCZhKOctM";
+$tocken = "";
 
 // Handler for messages
 $handler = new Handler($tocken);
